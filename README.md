@@ -1,2 +1,6 @@
-# Quick-Bash-portScanner
-Quick scanner for open ports
+# Bash Port Scanner
+Usage:
+
+```
+./portScan.sh IP
+```
